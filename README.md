@@ -1,6 +1,6 @@
 <!-- https://olesya-aldoshyna-0885.github.io/ -->
 
-# [OlesyaAldoshyna](https://olesya-aldoshyna-0885.github.io/)
+# [OlesyaAldoshyna](https://github.com/olesya-aldoshyna-0885/)
 
 🟦🟨 👋 Hey!
 <br />
