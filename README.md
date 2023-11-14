@@ -7,8 +7,8 @@
 ## My name is Olesya and I`m a future Full Stack developer. A little about me:
 
 - 💻 I love coding
-- 💪 working out in the gym
 - 📚 I learning Polish and English and improve my IT skills
+- 💪 Working out in the gym
 - ⚡ Interesting fact: in the gym I can easily lift 110 kg with my legs, and I also do cross stitch
   <br />
   <br />
