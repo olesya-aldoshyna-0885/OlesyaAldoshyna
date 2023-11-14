@@ -1,5 +1,9 @@
 # [OlesyaAldoshyna](https://github.com/olesya-aldoshyna-0885/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olesya-aldoshyna-0885&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=olesya-aldoshyna-0885)](https://github.com/ryo-ma/github-profile-trophy)
+
 🟦🟨 👋 Hey!
 <br />
 <br />
