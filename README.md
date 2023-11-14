@@ -1,5 +1,3 @@
-<!-- https://olesya-aldoshyna-0885.github.io/ -->
-
 # [OlesyaAldoshyna](https://github.com/olesya-aldoshyna-0885/)
 
 🟦🟨 👋 Hey!
@@ -11,6 +9,7 @@
 - 💻 I love coding
 - 💪 working out in the gym
 - 📚 I learning Polish and English and improve my IT skills
+- ⚡ Interesting fact: in the gym I can easily lift 110 kg with my legs, and I also do cross stitch
   <br />
   <br />
 
@@ -53,14 +52,3 @@ and I am constantly striving to learn new things. If you have any questions, sug
 <br />
 
 # Glory to Ukraine!!!💙💛
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
