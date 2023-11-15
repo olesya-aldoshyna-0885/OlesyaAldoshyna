@@ -1,5 +1,9 @@
 # [OlesyaAldoshyna](https://github.com/olesya-aldoshyna-0885/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olesya-aldoshyna-0885&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=olesya-aldoshyna-0885)](https://github.com/ryo-ma/github-profile-trophy)
+
 🟦🟨 👋 Hey!
 <br />
 <br />
@@ -46,11 +50,9 @@ and I am constantly striving to learn new things. If you have any questions, sug
 <a href="https://t.me/Olesia_Aldoshyna"><img height="23px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" /></a>
 <a href="http://linkedin.com/in/olesya-aldoshyna-676892272"><img height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LinkedIn_logo.svg/512px-LinkedIn_logo.svg.png" /></a>
 </div>
-<br />
-<br />
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olesya-aldoshyna-0885&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olesya-aldoshyna-0885)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
+<br />
+<br />
 
 # Glory to Ukraine!!!💙💛
